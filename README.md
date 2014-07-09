@@ -1,2 +1,3 @@
-placechicks
+PlaceChicks
 ===========
+The chicks generator.
